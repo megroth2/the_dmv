@@ -1,8 +1,5 @@
 class FacilityFactory
 
-  def initialize
-  end
-
   def create_co_facilities(locations)
     facilities = []
 
